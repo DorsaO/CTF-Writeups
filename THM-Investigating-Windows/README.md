@@ -75,8 +75,8 @@ of privilege escalation or lateral movement.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/RDP.png)
-![Screenshot 2](screenshots/Admin_privilages.png)
+![Screenshot 1](RDP.png)
+![Screenshot 2](Admin_privilages.png)
 
 ---
 
