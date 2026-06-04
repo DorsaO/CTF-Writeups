@@ -30,4 +30,4 @@ exfiltration indicator.
 ---
 
 ## Screenshot
-![Log Analysis](screenshots/Stolen_data.png)
+![Stolen_data](Stolen_data.png)
