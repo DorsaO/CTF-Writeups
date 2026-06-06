@@ -11,3 +11,4 @@ network forensics, and threat detection.
 | [Investigating Windows](./THM-Investigating-Windows/README.md) | TryHackMe | DFIR / Windows Forensics | Easy |
 | [Juicy Details](./THM-Juicy-Details/README.md) | TryHackMe | Log Analysis / Web Forensics | Easy |
 | [PCAPass](./Challenginno-PCAPass/README.md) | Challenginno | Network Forensics / PCAP | Easy–Medium |
+| [Carnage](./THM-Carnage/README.md) | TryHackMe | Network Forensics / PCAP Analysis | Medium |
